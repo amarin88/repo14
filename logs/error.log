@@ -1,0 +1,24 @@
+2024-08-04 04:18:45, error, Cast to ObjectId failed for value "66aef34af09217e388bd28541" (type string) at path "_id" for model "products"
+2024-08-04 04:30:33, error, Cast to ObjectId failed for value "66aef34af09217e388bd28541" (type string) at path "_id" for model "products"
+2024-08-04 05:15:50, error, logger is not defined
+2024-08-04 05:17:19, error, Cannot create property 'Symbol(level)' on string 'info'
+2024-08-04 05:27:22, error, Este es un error
+2024-08-04 05:28:02, error, Este es un error
+2024-08-04 05:31:09, error, Este es un error
+2024-08-04 05:36:08, error, Este es un error
+2024-08-04 05:36:08, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:09, error, Este es un error
+2024-08-04 05:36:09, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:11, error, Este es un error
+2024-08-04 05:36:11, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:44, error, Este es un error
+2024-08-04 05:40:07, error, Error message
+2024-08-04 05:42:39, error, Error message
+2024-08-04 05:43:17, error, Error message
+2024-08-17 17:03:48, error, Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [SCZPR80CA0005.lamprd80.prod.outlook.com 2024-08-17T20:03:51.000Z 08DCBE7AC9679D7F]
+2024-08-17 17:04:19, error, Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [SCYPR80CA0007.lamprd80.prod.outlook.com 2024-08-17T20:04:22.364Z 08DCBE6467E237F5]
+2024-08-17 17:04:50, error, Cannot read properties of undefined (reading 'resetPassword')
+2024-08-17 17:06:31, error, Cannot read properties of undefined (reading 'resetPassword')
+2024-08-17 17:23:11, error, Cannot read properties of undefined (reading 'resetPassword')
+2024-08-25 02:08:41, error, Cast to ObjectId failed for value "{pid}" (type string) at path "_id" for model "products"
+2024-08-25 02:13:16, error, Cast to ObjectId failed for value "ddd" (type string) at path "_id" for model "products"

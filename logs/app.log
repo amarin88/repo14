@@ -1,0 +1,322 @@
+2024-08-04 02:55:38, info, MongoDB successfully connected
+2024-08-04 02:55:38, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 03:49:32, info, MongoDB successfully connected
+2024-08-04 03:49:32, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:18:20, info, MongoDB successfully connected
+2024-08-04 04:18:20, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:18:45, error, Cast to ObjectId failed for value "66aef34af09217e388bd28541" (type string) at path "_id" for model "products"
+2024-08-04 04:20:57, info, MongoDB successfully connected
+2024-08-04 04:20:57, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:21:08, info, MongoDB successfully connected
+2024-08-04 04:21:08, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:21:50, info, MongoDB successfully connected
+2024-08-04 04:21:51, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:22:17, info, MongoDB successfully connected
+2024-08-04 04:22:17, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:23:42, info, MongoDB successfully connected
+2024-08-04 04:23:42, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:30:11, info, MongoDB successfully connected
+2024-08-04 04:30:11, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:30:33, error, Cast to ObjectId failed for value "66aef34af09217e388bd28541" (type string) at path "_id" for model "products"
+2024-08-04 04:31:49, info, MongoDB successfully connected
+2024-08-04 04:31:49, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:33:06, info, MongoDB successfully connected
+2024-08-04 04:33:06, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:35:25, info, MongoDB successfully connected
+2024-08-04 04:35:25, info, Server ready on http://localhost:8050. Press Ctrl + C to stop.
+2024-08-04 04:36:11, info, MongoDB successfully connected
+2024-08-04 04:36:11, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:37:25, info, MongoDB successfully connected
+2024-08-04 04:37:25, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:38:33, info, MongoDB successfully connected
+2024-08-04 04:38:33, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:39:23, info, MongoDB successfully connected
+2024-08-04 04:39:23, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:41:46, info, MongoDB successfully connected
+2024-08-04 04:41:46, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:42:43, info, MongoDB successfully connected
+2024-08-04 04:42:43, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:43:07, info, MongoDB successfully connected
+2024-08-04 04:43:07, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:44:22, info, MongoDB successfully connected
+2024-08-04 04:44:22, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:45:00, info, MongoDB successfully connected
+2024-08-04 04:45:00, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 04:45:24, info, MongoDB successfully connected
+2024-08-04 04:45:25, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:08:15, info, MongoDB successfully connected
+2024-08-04 05:08:15, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:15:09, info, MongoDB successfully connected
+2024-08-04 05:15:09, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:15:50, error, logger is not defined
+2024-08-04 05:17:12, info, MongoDB successfully connected
+2024-08-04 05:17:12, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:17:19, error, Cannot create property 'Symbol(level)' on string 'info'
+2024-08-04 05:26:34, info, MongoDB successfully connected
+2024-08-04 05:26:34, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:27:22, error, Este es un error
+2024-08-04 05:27:22, warn, Este es una advertencia
+2024-08-04 05:27:22, info, Este es un mensaje informativo
+2024-08-04 05:28:00, info, MongoDB successfully connected
+2024-08-04 05:28:00, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:28:02, error, Este es un error
+2024-08-04 05:28:02, warn, Este es una advertencia
+2024-08-04 05:28:02, info, Este es un mensaje informativo
+2024-08-04 05:31:01, info, MongoDB successfully connected
+2024-08-04 05:31:01, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:31:09, error, Este es un error
+2024-08-04 05:31:09, warn, Este es una advertencia
+2024-08-04 05:31:09, info, Este es un mensaje informativo
+2024-08-04 05:31:09, http, Este es un mensaje HTTP
+2024-08-04 05:36:06, info, MongoDB successfully connected
+2024-08-04 05:36:06, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:36:08, error, Este es un error
+2024-08-04 05:36:08, warn, Este es una advertencia
+2024-08-04 05:36:08, info, Este es un mensaje informativo
+2024-08-04 05:36:08, http, Este es un mensaje HTTP
+2024-08-04 05:36:08, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:09, error, Este es un error
+2024-08-04 05:36:09, warn, Este es una advertencia
+2024-08-04 05:36:09, info, Este es un mensaje informativo
+2024-08-04 05:36:09, http, Este es un mensaje HTTP
+2024-08-04 05:36:09, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:11, error, Este es un error
+2024-08-04 05:36:11, warn, Este es una advertencia
+2024-08-04 05:36:11, info, Este es un mensaje informativo
+2024-08-04 05:36:11, http, Este es un mensaje HTTP
+2024-08-04 05:36:11, error, Cannot set headers after they are sent to the client
+2024-08-04 05:36:31, info, MongoDB successfully connected
+2024-08-04 05:36:31, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:36:44, error, Este es un error
+2024-08-04 05:36:44, warn, Este es una advertencia
+2024-08-04 05:36:44, info, Este es un mensaje informativo
+2024-08-04 05:36:44, http, Este es un mensaje HTTP
+2024-08-04 05:38:36, info, MongoDB successfully connected
+2024-08-04 05:38:36, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:39:51, info, MongoDB successfully connected
+2024-08-04 05:39:51, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:40:07, info, Info message
+2024-08-04 05:40:07, error, Error message
+2024-08-04 05:40:07, warn, Warning message
+2024-08-04 05:40:07, http, HTTP message
+2024-08-04 05:41:03, info, MongoDB successfully connected
+2024-08-04 05:41:03, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:41:28, info, MongoDB successfully connected
+2024-08-04 05:41:28, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:41:43, info, MongoDB successfully connected
+2024-08-04 05:41:43, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:41:58, info, MongoDB successfully connected
+2024-08-04 05:41:59, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:42:37, info, MongoDB successfully connected
+2024-08-04 05:42:37, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:42:39, info, Info message
+2024-08-04 05:42:39, error, Error message
+2024-08-04 05:42:39, warn, Warning message
+2024-08-04 05:42:39, http, HTTP message
+2024-08-04 05:43:14, info, MongoDB successfully connected
+2024-08-04 05:43:14, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-04 05:43:17, info, Info message
+2024-08-04 05:43:17, error, Error message
+2024-08-04 05:43:17, warn, Warning message
+2024-08-04 05:43:17, http, HTTP message
+2024-08-17 15:01:24, info, MongoDB successfully connected
+2024-08-17 15:01:24, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:15:52, info, MongoDB successfully connected
+2024-08-17 15:15:53, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:19:04, info, MongoDB successfully connected
+2024-08-17 15:19:04, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:21:47, info, MongoDB successfully connected
+2024-08-17 15:21:47, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:24:12, info, MongoDB successfully connected
+2024-08-17 15:24:12, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:24:37, info, MongoDB successfully connected
+2024-08-17 15:24:37, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:27:52, info, MongoDB successfully connected
+2024-08-17 15:27:52, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:35:05, info, MongoDB successfully connected
+2024-08-17 15:35:05, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:36:33, info, MongoDB successfully connected
+2024-08-17 15:36:34, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:37:25, info, MongoDB successfully connected
+2024-08-17 15:37:25, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:38:33, info, MongoDB successfully connected
+2024-08-17 15:38:34, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 15:40:45, info, MongoDB successfully connected
+2024-08-17 15:40:45, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 17:02:34, info, MongoDB successfully connected
+2024-08-17 17:02:34, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 17:03:48, error, Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [SCZPR80CA0005.lamprd80.prod.outlook.com 2024-08-17T20:03:51.000Z 08DCBE7AC9679D7F]
+2024-08-17 17:04:19, error, Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [SCYPR80CA0007.lamprd80.prod.outlook.com 2024-08-17T20:04:22.364Z 08DCBE6467E237F5]
+2024-08-17 17:04:50, error, Cannot read properties of undefined (reading 'resetPassword')
+2024-08-17 17:06:31, error, Cannot read properties of undefined (reading 'resetPassword')
+2024-08-17 17:17:11, info, MongoDB successfully connected
+2024-08-17 17:17:11, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 17:18:14, info, MongoDB successfully connected
+2024-08-17 17:18:14, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 17:23:11, error, Cannot read properties of undefined (reading 'resetPassword')
+2024-08-17 17:30:27, info, MongoDB successfully connected
+2024-08-17 17:30:27, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 18:02:14, info, MongoDB successfully connected
+2024-08-17 18:02:14, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-17 18:03:54, info, MongoDB successfully connected
+2024-08-17 18:03:54, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:16:40, info, MongoDB successfully connected
+2024-08-18 17:16:40, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:18:19, info, MongoDB successfully connected
+2024-08-18 17:18:19, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:22:18, info, MongoDB successfully connected
+2024-08-18 17:22:18, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:32:06, info, MongoDB successfully connected
+2024-08-18 17:32:06, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:32:29, info, MongoDB successfully connected
+2024-08-18 17:32:29, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:56:53, info, MongoDB successfully connected
+2024-08-18 17:56:53, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 17:57:04, info, MongoDB successfully connected
+2024-08-18 17:57:04, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:05:51, info, MongoDB successfully connected
+2024-08-18 18:05:51, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:11:24, info, MongoDB successfully connected
+2024-08-18 18:11:24, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:18:09, info, MongoDB successfully connected
+2024-08-18 18:18:09, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:21:34, info, MongoDB successfully connected
+2024-08-18 18:21:34, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:21:57, info, MongoDB successfully connected
+2024-08-18 18:21:57, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:25:55, info, MongoDB successfully connected
+2024-08-18 18:25:55, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:37:03, info, MongoDB successfully connected
+2024-08-18 18:37:03, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:39:03, info, MongoDB successfully connected
+2024-08-18 18:39:03, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:55:18, info, MongoDB successfully connected
+2024-08-18 18:55:18, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 18:58:32, info, MongoDB successfully connected
+2024-08-18 18:58:32, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:00:09, info, MongoDB successfully connected
+2024-08-18 19:00:09, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:14:42, info, MongoDB successfully connected
+2024-08-18 19:14:42, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:23:29, info, MongoDB successfully connected
+2024-08-18 19:23:29, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:30:57, info, MongoDB successfully connected
+2024-08-18 19:30:57, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:35:35, info, MongoDB successfully connected
+2024-08-18 19:35:35, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:40:08, info, MongoDB successfully connected
+2024-08-18 19:40:08, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:43:39, info, MongoDB successfully connected
+2024-08-18 19:43:39, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 19:44:50, info, MongoDB successfully connected
+2024-08-18 19:44:50, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:05:28, info, MongoDB successfully connected
+2024-08-18 20:05:28, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:14:43, info, MongoDB successfully connected
+2024-08-18 20:14:43, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:21:51, info, MongoDB successfully connected
+2024-08-18 20:21:51, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:24:24, info, MongoDB successfully connected
+2024-08-18 20:24:24, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:34:33, info, MongoDB successfully connected
+2024-08-18 20:34:33, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:35:08, info, MongoDB successfully connected
+2024-08-18 20:35:08, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-18 20:37:18, info, MongoDB successfully connected
+2024-08-18 20:37:18, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-24 23:00:09, info, MongoDB successfully connected
+2024-08-24 23:00:09, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-24 23:02:38, info, MongoDB successfully connected
+2024-08-24 23:02:38, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 00:40:07, info, MongoDB successfully connected
+2024-08-25 00:40:07, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:11:52, info, MongoDB successfully connected
+2024-08-25 01:11:52, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:15:25, info, MongoDB successfully connected
+2024-08-25 01:15:25, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:22:26, info, MongoDB successfully connected
+2024-08-25 01:22:26, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:23:56, info, MongoDB successfully connected
+2024-08-25 01:23:56, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:32:54, info, MongoDB successfully connected
+2024-08-25 01:32:54, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:34:18, info, MongoDB successfully connected
+2024-08-25 01:34:18, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:48:56, info, MongoDB successfully connected
+2024-08-25 01:48:56, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:56:41, info, MongoDB successfully connected
+2024-08-25 01:56:41, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 01:57:44, info, MongoDB successfully connected
+2024-08-25 01:57:46, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:07:44, info, MongoDB successfully connected
+2024-08-25 02:07:44, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:08:41, error, Cast to ObjectId failed for value "{pid}" (type string) at path "_id" for model "products"
+2024-08-25 02:11:43, info, MongoDB successfully connected
+2024-08-25 02:11:43, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:12:46, info, MongoDB successfully connected
+2024-08-25 02:12:46, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:13:16, error, Cast to ObjectId failed for value "ddd" (type string) at path "_id" for model "products"
+2024-08-25 02:15:54, info, MongoDB successfully connected
+2024-08-25 02:15:54, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:16:58, info, MongoDB successfully connected
+2024-08-25 02:16:58, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:30:42, info, MongoDB successfully connected
+2024-08-25 02:30:42, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:34:20, info, MongoDB successfully connected
+2024-08-25 02:34:20, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 02:36:06, info, MongoDB successfully connected
+2024-08-25 02:36:06, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:23:25, info, MongoDB successfully connected
+2024-08-25 03:23:25, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:24:19, info, MongoDB successfully connected
+2024-08-25 03:24:19, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:39:21, info, MongoDB successfully connected
+2024-08-25 03:39:21, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:41:23, info, MongoDB successfully connected
+2024-08-25 03:41:23, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:46:17, info, MongoDB successfully connected
+2024-08-25 03:46:17, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:51:47, info, MongoDB successfully connected
+2024-08-25 03:51:47, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 03:55:59, info, MongoDB successfully connected
+2024-08-25 03:55:59, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:04:00, info, MongoDB successfully connected
+2024-08-25 04:04:00, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:09:40, info, MongoDB successfully connected
+2024-08-25 04:09:40, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:15:28, info, MongoDB successfully connected
+2024-08-25 04:15:28, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:28:47, info, MongoDB successfully connected
+2024-08-25 04:28:47, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:32:16, info, MongoDB successfully connected
+2024-08-25 04:32:16, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:35:23, info, MongoDB successfully connected
+2024-08-25 04:35:23, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:38:05, info, MongoDB successfully connected
+2024-08-25 04:38:05, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:39:34, info, MongoDB successfully connected
+2024-08-25 04:39:34, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:46:05, info, MongoDB successfully connected
+2024-08-25 04:46:05, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:47:56, info, MongoDB successfully connected
+2024-08-25 04:47:56, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 04:54:04, info, MongoDB successfully connected
+2024-08-25 04:54:04, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 05:00:53, info, MongoDB successfully connected
+2024-08-25 05:00:53, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 05:24:06, info, MongoDB successfully connected
+2024-08-25 05:24:06, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 05:29:47, info, MongoDB successfully connected
+2024-08-25 05:29:47, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 05:46:09, info, MongoDB successfully connected
+2024-08-25 05:46:09, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 05:54:14, info, MongoDB successfully connected
+2024-08-25 05:54:14, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 06:00:17, info, MongoDB successfully connected
+2024-08-25 06:00:17, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 06:01:47, info, MongoDB successfully connected
+2024-08-25 06:01:47, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 06:09:07, info, MongoDB successfully connected
+2024-08-25 06:09:07, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
+2024-08-25 06:10:26, info, MongoDB successfully connected
+2024-08-25 06:10:26, info, Server ready on http://localhost:8080. Press Ctrl + C to stop.
